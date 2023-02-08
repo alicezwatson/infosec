@@ -11,7 +11,7 @@ A data breach is when an attacker gains unauthorized access to information, such
 
 ## What happens to my data after a breach?
 
-After a data breach, the sensitive information that has been obtained is typically sold, traded, leveraged against you, used to pivot into another attack, or released publically.
+After a data breach, the sensitive information that has been obtained is typically sold, traded, leveraged against you, used to pivot into another attack, or released publicly.
 
 In some cases, the data obtained in a breach may be sold to **data brokers**, who then sell the information to other organizations, often for marketing purposes. These organizations may use the information for targeted advertising, sales leads, or to make decisions about you.
 
