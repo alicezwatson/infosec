@@ -39,6 +39,8 @@ Social engineering attacks are methods used by attackers to manipulate individua
 >
 > Baiting 💾: A physical attack where an attacker leaves a malicious device, such as a USB drive, in a public place with the hope that someone will pick it up and plug it into their computer.
 
+⚠ One of the more interesting attacks I've seen in the past couple years was QR spoofing or replacing the QR code for the menu at a local cafe with a malicious one that directed the user's phone to an alternate site with an evil PDF version of the menu. Since COVID, we've become so used to scanning QR codes to check-in or view menus without making contact, that it's become a ligitimate means of targeting certain groups (like the pricey cafe across from Amazon's downtown buildings).
+
 Remember to always be cautious of unexpected requests for personal information and to verify the authenticity of any communication before providing sensitive information.
 
 
