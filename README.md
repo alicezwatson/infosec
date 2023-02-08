@@ -103,4 +103,4 @@ Unfortunately, a lot of the onus for protecting your data falls on companies who
 > 
 > Use anonymous accounts unless you need them to be tied to your real self. 🥷
 > 
-> Don't overshare. You can have full, rich interactions online without disclosing everything about you.
+> Don't overshare. You can have full, rich interactions online without disclosing everything about you. 🎉
