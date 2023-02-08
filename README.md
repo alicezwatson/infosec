@@ -58,7 +58,9 @@ Some common ways of generating pressure are:
 > 
 > **Greed** 💸: Creating an offer that's too good to pass up, like unclaimed lottery winnings, rebates, and the like.
  
+ 
 The goal of pressure tactics is to keep you from taking the time to think carefully and critically about the situation. If you are feeling pressured, take a step back, verify the authenticity of the communication, and ask yourself if this seems reasonable before taking any action.
+
 
 ### 🍖 Meat-Based Attacks: Open-Source Intelligence (OSINT) 🍖
 
@@ -77,17 +79,27 @@ Hackers can exploit bugs and misconfigurations in applications, servers, or data
 While there's no silver bullet to protect yourself from data theft, there are a host of things you can do to minimize the risk and the potential damage.
 
 > Use **strong** and **unique** passwords for **all** your accounts and use a password manager. 🔑
+> 
 > Enable two-factor authentication (2FA) on all your accounts that offer it. 💻📱
+> 
 > Keep your software and operating system up to date—this includes your browser. 🛠️
+> 
 > Don't click on links or open files from unknown or suspicious sources. ❌
+> 
 > Regularly back up important data to an external hard drive or cloud storage. 💾
-> Don't use untrusted devices.
-> Use a VPN if you *have* to connect to or through untrusted networks (like public WiFi).
+> 
+> Don't use untrusted devices. 🤨
+> 
+> Use a VPN if you *have* to connect to or through untrusted networks (like public WiFi). 🍯
+
 
 Unfortunately, a lot of the onus for protecting your data falls on companies who are notoriously bad at keeping it safe. To minimize the risk and the potential damage in this case, you can do some of the following:
 
-> Close unused accounts and request their deletion.
-> Remove any unnecessary information you can from sites and services you use.
-> Pollute your data—make it less useful to, and more work for, someone to exploit.
-> Use anonymous accounts unless you need them to be tied to your real self.
+> Close unused accounts and request their deletion. ␡
+> 
+> Remove any unnecessary information you can from sites and services you use. ⎌
+> 
+> Pollute your data—make it less useful to, and more work for, someone to exploit. 🏭
+> 
+> Use anonymous accounts unless you need them to be tied to your real self. 🥷
 
