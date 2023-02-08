@@ -102,4 +102,5 @@ Unfortunately, a lot of the onus for protecting your data falls on companies who
 > Pollute your data—make it less useful to, and more work for, someone to exploit. 🏭
 > 
 > Use anonymous accounts unless you need them to be tied to your real self. 🥷
-
+> 
+> Don't overshare. You can have full, rich interactions online without disclosing everything about you.
